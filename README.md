@@ -38,12 +38,15 @@ python main.py --model DCGAN \
                
                
 ##Example of training process
+
 #Simpson training:
 
 ![](Simpson.gif)
 
 #Anime training:
+
 ![](Anime.gif)
 
 #Football Team training:
+
 ![](Football Team.gif)
