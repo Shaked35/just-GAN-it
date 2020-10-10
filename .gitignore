@@ -1,0 +1,19 @@
+# python ignores
+*.pyc
+venv/
+
+# mac ignores
+.DS_Store
+
+
+# mypy ignores
+.mypy_cache
+
+# intellij ignores
+.idea
+*.iml
+
+#train ignores
+.training_results_images
+
+
