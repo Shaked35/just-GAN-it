@@ -42,10 +42,10 @@ python main.py --model DCGAN \
 
 ![](Simpson.gif)
 
-###Football Team training:
-
-![](Football Team.gif)
-
 ###Anime training:
 
 ![](Anime.gif)
+
+###Football Team training:
+
+![](Football-Team.gif)
