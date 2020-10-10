@@ -21,7 +21,6 @@ ims = images_size (int) - How to normalize the input images.
 cb = create_batches (string) - Set False if you don't want to create new batches.
 t = train (string) - Set False if you just want to generate new images by exist models.
 
-
 ##Running
 
 Running training of DCGAN model 
@@ -39,14 +38,14 @@ python main.py --model DCGAN \
                
 ##Example of training process
 
-#Simpson training:
+###Simpson training:
 
 ![](Simpson.gif)
 
-#Anime training:
-
-![](Anime.gif)
-
-#Football Team training:
+###Football Team training:
 
 ![](Football Team.gif)
+
+###Anime training:
+
+![](Anime.gif)
